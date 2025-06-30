@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Объявления Великий Устюг — свежие вакансии, жильё, услуги, авто и больше." />
+  <meta name="keywords" content="объявления Великий Устюг, работа, услуги, ВКонтакте, недвижимость, авто" />
+  <title>Объявления Великий Устюг — Работа, жильё, услуги</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      color: #333;
+      padding: 2rem;
+      text-align: center;
+    }
+    header {
+      background-color: #213547;
+      color: white;
+      padding: 2rem 1rem;
+      border-radius: 12px;
+      margin-bottom: 2rem;
+    }
+    a {
+      display: inline-block;
+      margin-top: 1rem;
+      text-decoration: none;
+      background-color: #4CAF50;
+      color: white;
+      padding: 0.75rem 1.5rem;
+      border-radius: 8px;
+      font-weight: bold;
+    }
+    footer {
+      margin-top: 3rem;
+      font-size: 0.9rem;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Объявления Великий Устюг</h1>
+    <p>Свежие объявления города — всё в одном месте!</p>
+  </header>
+
+  <p>Работа • Услуги • Аренда и продажа жилья • Транспорт • Вещи • Домашние животные</p>
+
+  <a href="https://vk.com/infodeskvustug" target="_blank">Перейти в группу ВКонтакте</a>
+
+  <footer>
+    <p>Контакты: <br />
+    Telegram: @infodesk_vustug <br />
+    Email: info@vustug.ru</p>
+  </footer>
+
+</body>
+</html>
